@@ -13,8 +13,6 @@ Welcome to my little corner of GitHub!<br>I’m passionate about growing in my c
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=dipanshu-data&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dipanshu-data&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dipanshu-data&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### ✍️ Random Dev Quote
